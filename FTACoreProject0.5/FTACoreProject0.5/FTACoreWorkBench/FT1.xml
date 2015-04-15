@@ -1,0 +1,17 @@
+﻿<FT>
+  <nd i="1" t="OR">
+    <nd i="2"/>
+    <nd i="3"/>
+  </nd>
+  <nd i="2" t="AND">
+    <nd i="4"/>
+    <nd i="5"/>
+  </nd>
+  <nd i="3" T="AND">
+    <nd i="5"/>
+    <nd i="6"/>
+  </nd>
+  <nd i="4" t="BSC" v="0.8"/>
+  <nd i="5" t="BSC" v="0.7"/>
+  <nd i="6" t="BSC" v="0.6"/>
+</FT>

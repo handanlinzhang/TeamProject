@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTACoreWorkBench", "FTACoreWorkBench\FTACoreWorkBench.csproj", "{D6113E06-21E5-4965-99E0-59F1EB0370D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTACoreLibV2", "FTACoreLibV2\FTACoreLibV2.csproj", "{9E2C67B2-13C8-478A-9405-D0D9A58F38C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTACoreV1", "FTACoreV1\FTACoreV1.csproj", "{5EA4B01E-5890-47CA-A86D-14C41CDB9D9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6113E06-21E5-4965-99E0-59F1EB0370D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6113E06-21E5-4965-99E0-59F1EB0370D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6113E06-21E5-4965-99E0-59F1EB0370D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6113E06-21E5-4965-99E0-59F1EB0370D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E2C67B2-13C8-478A-9405-D0D9A58F38C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2C67B2-13C8-478A-9405-D0D9A58F38C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2C67B2-13C8-478A-9405-D0D9A58F38C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2C67B2-13C8-478A-9405-D0D9A58F38C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA4B01E-5890-47CA-A86D-14C41CDB9D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA4B01E-5890-47CA-A86D-14C41CDB9D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA4B01E-5890-47CA-A86D-14C41CDB9D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA4B01E-5890-47CA-A86D-14C41CDB9D9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
