@@ -3,8 +3,4 @@ I still have some questions to ask.
 you need to google it to solve your questions
 a test again
 local test 
-<<<<<<< HEAD
-repetition test
-=======
-remote test
->>>>>>> 3316757a1d984d84896061f9ed7e43117a88897a
+merge is not successful
