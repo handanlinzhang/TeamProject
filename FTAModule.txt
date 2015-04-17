@@ -1,7 +1,4 @@
 to practise the github operations
 I still have some questions to ask.
 you need to google it to solve your questions
-<<<<<<< HEAD
 our world!
-=======
->>>>>>> b0e525bb354b3eb51e8719955467b9b3dbf566b5
